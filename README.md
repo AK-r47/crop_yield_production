@@ -1,1 +1,0 @@
-# crop_yield_production
